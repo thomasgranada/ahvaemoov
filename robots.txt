@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://giengiuch.delnatte.be/sitemap.xml
